@@ -1,0 +1,7 @@
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\bin\Debug\FindLongestGapTests.dll
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\bin\Debug\FindLongestGapTests.pdb
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\bin\Debug\CodeWars-FindLongestGap.exe
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\bin\Debug\CodeWars-FindLongestGap.pdb
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\obj\Debug\FindLongestGapTests.csprojResolveAssemblyReference.cache
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\obj\Debug\FindLongestGapTests.dll
+C:\Users\Candace\Documents\Visual Studio 2013\Projects\CodeWars-FindLongestGap\FindLongestGapTests\obj\Debug\FindLongestGapTests.pdb
